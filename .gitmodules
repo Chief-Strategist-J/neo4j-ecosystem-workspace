@@ -1,0 +1,36 @@
+[submodule "neo4j"]
+	path = neo4j
+	url = https://github.com/Chief-Strategist-J/neo4j.git
+[submodule "neo4j-apoc-procedures"]
+	path = neo4j-apoc-procedures
+	url = https://github.com/Chief-Strategist-J/neo4j-apoc-procedures.git
+[submodule "graph-data-science"]
+	path = graph-data-science
+	url = https://github.com/Chief-Strategist-J/graph-data-science.git
+[submodule "neo4j-graphrag-python"]
+	path = neo4j-graphrag-python
+	url = https://github.com/Chief-Strategist-J/neo4j-graphrag-python.git
+[submodule "neo4j-python-driver"]
+	path = neo4j-python-driver
+	url = https://github.com/Chief-Strategist-J/neo4j-python-driver.git
+[submodule "neomodel"]
+	path = neomodel
+	url = https://github.com/Chief-Strategist-J/neomodel.git
+[submodule "graphql"]
+	path = graphql
+	url = https://github.com/Chief-Strategist-J/graphql.git
+[submodule "neo4j-javascript-driver"]
+	path = neo4j-javascript-driver
+	url = https://github.com/Chief-Strategist-J/neo4j-javascript-driver.git
+[submodule "spring-data-neo4j"]
+	path = spring-data-neo4j
+	url = https://github.com/Chief-Strategist-J/spring-data-neo4j.git
+[submodule "neo4j-spark-connector"]
+	path = neo4j-spark-connector
+	url = https://github.com/Chief-Strategist-J/neo4j-spark-connector.git
+[submodule "neo4j-kafka-connector"]
+	path = neo4j-kafka-connector
+	url = https://github.com/Chief-Strategist-J/neo4j-kafka-connector.git
+[submodule "neodash"]
+	path = neodash
+	url = https://github.com/Chief-Strategist-J/neodash.git
